@@ -7,10 +7,4 @@ end
 
 
 array
-
-
-
-
-
-
 end
